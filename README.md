@@ -7,7 +7,7 @@ Clone it to your local computer.
 
 - git clone (url)
 
-Read the instructions and grading rubric in HW_5_Instructions.pdf.  
+Read the instructions and grading rubric in Homework_5_Instructions.pdf.  
 
 Modify the code in HW5.py.  To add this file to the staging area for a commit use:
 
